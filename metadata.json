@@ -1,0 +1,6 @@
+{
+  "name": "OpsPilot",
+  "description": "Autonomous AI incident responder using a 4-agent pipeline to detect, diagnose, and resolve server incidents with instant Telegram alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
